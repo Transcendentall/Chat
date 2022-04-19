@@ -2,6 +2,20 @@
 
 Welcome to the club, buddy!
 
+http://20.25.62.64/chatcode.php 
+
+______
+
+В чате пока что только три пользователя:
+
+    "Billy Herrington", пароль "12345"
+    "Van Darkholm", пароль "leatherman"
+    "Ricardo Milos", пароль "gachimuchi"
+   
+Все логины и пароли БЕЗ КАВЫЧЕК!
+
+_______
+
 Сначала мы анонимны. Читать можем, а писать - нет.
 
 ![alt text](scr/1.jpg)
@@ -25,13 +39,3 @@ Welcome to the club, buddy!
 Что и продемонстрировано ниже:
 
 ![alt text](scr/5.jpg)
-
-______
-
-В чате пока что только три пользователя:
-
-    "Billy Herrington", пароль "12345"
-    "Van Darkholm", пароль "leatherman"
-    "Ricardo Milos", пароль "gachimuchi"
-   
-Все логины и пароли БЕЗ КАВЫЧЕК!
